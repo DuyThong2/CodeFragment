@@ -18,7 +18,8 @@ Security/.mvn/wrapper/
 Security/*.log
 
 # Ignore application configuration files
-Security/secrets
+java/API/AuthenticateAPI/src/main/resources/secrets.properties
+
 
 # Ignore any other generated files
 Security/*.jar
